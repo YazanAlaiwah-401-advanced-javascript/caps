@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 2,
+    "editor.mouseWheelZoom": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.formatOnSave": true
+}
