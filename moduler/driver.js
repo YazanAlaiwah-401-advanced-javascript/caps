@@ -1,9 +1,7 @@
 'use strict';
 require('dotenv').config();
 const event = require('./events.js');
-const order = require('./vendor');
 require('./caps.js');
-console.log(order);
 function all(paylod) {
   setTimeout(() => {
     console.log('DRIVER: picked up ' + paylod.orderID);
