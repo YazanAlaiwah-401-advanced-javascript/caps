@@ -2,8 +2,6 @@
 const event = require('../moduler/events.js');
 require('../moduler/caps.js');
 
-// const { internet } = require("faker");
-
 describe('EVENT MODUEL', () => {
   jest.spyOn(console, 'log').mockImplementation();
   it('its should work with emit puckup', () => {
